@@ -1,5 +1,5 @@
 {
-  "name": "lsolankinew/hello-world-program-by-lsolankinew",
+  "name": "lsolanki/hello-world-program-by-lsolanki",
   "type": "library",
   "description": "This is a test package by lokesh",
   "keywords": [
@@ -26,12 +26,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Psi\\Libraries\\HelloWorldProgramByLsolankinew\\": "src/"
+      "Psi\\Libraries\\HelloWorldProgramByLsolanki\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Psi\\Libraries\\HelloWorldProgramByLsolankinew\\Tests\\": "tests/"
+      "Psi\\Libraries\\HelloWorldProgramByLsolanki\\Tests\\": "tests/"
     }
   },
   "scripts": {
