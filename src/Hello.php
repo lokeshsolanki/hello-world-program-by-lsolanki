@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../vendor/autoload.php';
 
-use Psi\Libraries\HelloWorldProgramByLsolankinew\CExample;
+use Psi\Libraries\HelloWorldProgramByLsolanki\CExample;
 
 $instance = new CExample();
 
