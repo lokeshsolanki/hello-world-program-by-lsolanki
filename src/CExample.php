@@ -1,6 +1,6 @@
 <?php
 
-namespace Psi\Libraries\HelloWorldProgramByLsolanki;
+namespace Psi\Libraries\HelloWorldProgramByLsolankinew;
 
 class CExample {
 

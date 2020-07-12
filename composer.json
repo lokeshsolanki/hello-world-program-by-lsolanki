@@ -1,9 +1,9 @@
 {
-  "name": "lsolanki/hello-world-program-by-lsolanki",
+  "name": "lsolankinew/hello-world-program-by-lsolankinew",
   "type": "library",
   "description": "This is a test package by lokesh",
   "keywords": [
-    "hello-world-program-by-lsolanki"
+    "hello-world-program-by-lsolankinew"
 ],
   "license": "bsd-3-clause",
   "homepage": "https://github.com",
@@ -26,12 +26,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Psi\\Libraries\\HelloWorldProgramByLsolanki\\": "src/"
+      "Psi\\Libraries\\HelloWorldProgramByLsolankinew\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Psi\\Libraries\\HelloWorldProgramByLsolanki\\Tests\\": "tests/"
+      "Psi\\Libraries\\HelloWorldProgramByLsolankinew\\Tests\\": "tests/"
     }
   },
   "scripts": {
