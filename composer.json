@@ -1,0 +1,40 @@
+{
+  "name": "psi/hello-world-program-by-lsolanki",
+  "type": "library",
+  "description": "This is a test package by lokesh",
+  "keywords": [
+    "hello-world-program-by-lsolanki"
+],
+  "license": "bsd-3-clause",
+  "homepage": "https://github.com",
+  "authors": [
+    {
+        "name": "Entrata, Inc.",
+        "email": "info@entrata.com",
+        "role": "owner"
+    },
+    {
+        "name": "Lokesh Solanki",
+        "role": "developer"
+    }
+],
+  "require": {
+    "php": ">=7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Psi\\Libraries\\HelloWorldProgramByLsolanki\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Psi\\Libraries\\HelloWorldProgramByLsolanki\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  }
+}
